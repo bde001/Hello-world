@@ -3,6 +3,6 @@ package com.csf2019.c1g72.burcev_d_e;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.print("Hello World!");
+	System.out.print("Hello World! - second edition");
     }
 }
